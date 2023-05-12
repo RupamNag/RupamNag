@@ -1,4 +1,4 @@
-!logo[](https://github.com/rupamnag/rupamnag/blob/2578cef8791f87f645e87c4dc6a07ebc101cb2ff/Banner.png)
+<img src="https://github.com/rupamnag/rupamnag/blob/2578cef8791f87f645e87c4dc6a07ebc101cb2ff/Banner.png" height="100">
 <h1 align="center">Hi 👋, I'm Rupam Nag</h1>
 <h3 align="center">Exploring the world of code, one commit at a time</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
