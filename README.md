@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupamnag&label=Profile%20views&color=0e75b6&style=flat" alt="rupamnag" /> </p>
 
-- 📝 I write articles on [inkedbyrupam.medium.com](inkedbyrupam.medium.com)
+- 📝 I write articles on [inkedbyrupam.medium.com](https://inkedbyrupam.medium.com/)
 
 - 📫 How to reach me **RupamNag.Linkedin@gmail.com**
 
